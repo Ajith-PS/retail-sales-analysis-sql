@@ -1,7 +1,7 @@
 # Business Insights
 
 ## 1. Customer Spending Analysis
-Ajith emerged as one of the highest spending customers based on total purchase value.
+michael emerged as one of the highest spending customers based on total purchase value.
 
 ## 2. Product Performance
 Electronics products generated higher revenue compared to fashion accessories.
