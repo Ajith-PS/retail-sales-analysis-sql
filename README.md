@@ -45,5 +45,13 @@ ORDER BY total_revenue DESC;
 - Customer spending trends were successfully analyzed
 - Monthly sales reporting improved visibility into sales performance
 
+## Project Screenshots
+
+### Revenue by Category
+![Revenue Analysis](screenshots/revenue_category.png)
+
+### Top Products
+![Top Products](screenshots/top_products.png)
+
 ## Project Outcome
 This project demonstrates practical SQL skills for retail business analysis and reporting.
